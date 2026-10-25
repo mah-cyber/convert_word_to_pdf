@@ -6,10 +6,6 @@ __pycache__/
 *.pyc
 .venv/
 
-# Input and output documents
-input/*
-output/*
-
 # Keep directories in Git
 !input/.gitkeep
 !output/.gitkeep
